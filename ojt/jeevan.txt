@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hi i am jeevan i am learning git and git hub through chatgpt and gemini pro.
+=======
+Hi i am jeevan and i am learning git and github .
+>>>>>>> 068d962d776e5153d424beac107525c99c77e52e
