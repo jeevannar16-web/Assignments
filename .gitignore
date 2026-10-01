@@ -1,0 +1,39 @@
+# Compiled binaries
+*.exe
+*.exe.manifest
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.out
+*.app
+
+# Compiled Java
+*.class
+*.jar
+*.war
+
+# Compiled Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+venv/
+.venv/
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+*.swp
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Env / secrets — never commit
+.env
+.env.*
