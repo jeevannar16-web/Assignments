@@ -1,0 +1,6 @@
+Login Feature Implementation
+============================
+- Add username/email field
+- Add password field
+- Implement authentication
+- Add remember me checkbox

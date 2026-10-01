@@ -1,0 +1,6 @@
+Signup Feature Implementation
+=============================
+- Add registration form
+- Add email verification
+- Add password strength indicator
+- Add terms and conditions checkbox

@@ -1,0 +1,3 @@
+Stash Demo
+==========
+This file demonstrates git stash functionality
